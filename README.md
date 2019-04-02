@@ -62,7 +62,7 @@ Air blower blows air in the tube which consists of small pores at the lower side
 1. [Rishab Sharma](https://github.com/rishabh0203iitr)
 2. [Shubham Verma](https://github.com/shubhamverma989630)
 3. Pulkit Mundra
-# Mentors
+## Mentors
 
 1. Avdesh Ranwa
 2. Raghav Dhingra
