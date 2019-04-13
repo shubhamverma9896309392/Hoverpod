@@ -20,7 +20,7 @@ Our Bot can move efficiently on any plane surface, the almost frictionless desig
 2. 2. Arduino Uno was used for motion of BLDC motors as well as to connect bluetooth module.
 3. A bluetooth module was used for transmission of commands from android device to our hoverpod.  
 4. All the BLDC motors were powered through Li-Po 11.1V dc battery.
-![circuit](https://github.com/shubhamverma989630/Hoverpod/blob/master/Electronic%20compo.jpg)
+
 
 
 
@@ -34,13 +34,13 @@ It stands on a circular wooden board and comprises of 3 BLDC motors and a blower
 |Android Device|10000|
 |Blower|750|
 |Arduino Uno|500|
-|ESC motor driver(3)|480|
+|ESC motor driver(3)|1440|
 |Bluetooth module|350|
 |Voltmeter|160|
 |BLDC motors(3)|1050|
 |Li-Po battery(2)|2200|
 |Other Components|2000|
-|Total|17490|
+|Total|18450|
 
 ##  Final Changes and Modification in design
 The structure was inclined due to unhealthy weight balancing so we need to balance it. And also it required some error correction in steering it.
@@ -50,22 +50,23 @@ Air blower blows air in the tube which consists of small pores at the lower side
 
  ## Limitations
  - It can lift only upto 15 kgs.
- - As friction is not present,it is a bit difficult to steer it.
+ - As friction is not present,it is a difficult to steer it.
  - Blower requires a high power input so it need to be connected through wire.
  ## Future Improvements
- - To make it wireless
- - To improve controlling.
+ - To make it wireless, by installing a bigger battery.
+ - To make turning more efficient by using a Gyro sensor in conjunction with PID.
  - To increase weight lifting capability.
 
 ## Team Members
 
-1. [Rishab Sharma](https://github.com/rishabh0203iitr)
-2. [Shubham Verma](https://github.com/shubhamverma989630)
-3. Pulkit Mundra
+1. Pulkit Mundra
+2. [Rishabh Sharma](https://github.com/rishabh0203iitr)
+3. [Shubham Verma](https://github.com/shubhamverma989630)
 ## Mentors
 
 1. Avdesh Ranwa
 2. Raghav Dhingra
 
+![circuit](https://github.com/shubhamverma989630/Hoverpod/blob/master/Electronic%20compo.jpg)
 
 
